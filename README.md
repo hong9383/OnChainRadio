@@ -34,7 +34,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-repo/OnChainRadio.git
+git clone https://github.com/hong9383/OnChainRadio.git
 cd OnChainRadio
 ```
 
